@@ -9,5 +9,8 @@ RA: 26001698
 Otavio Fiorette
 RA: 26001229
 
-Leonardo Fonseca
-RA: 
+Leonardo da Silva Fonseca
+RA: 25000517
+
+Maria Fernanda de Almeida Lopes
+RA: 25002085
