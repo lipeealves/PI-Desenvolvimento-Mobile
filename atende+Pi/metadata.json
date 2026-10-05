@@ -1,0 +1,8 @@
+{
+  "name": "Atende+ - Assistente Virtual Inteligente",
+  "description": "Aplicativo de autoatendimento e assistente virtual com IA (Google Gemini) para empresas parceiras com CNPJ ativo, automatizando o atendimento inicial e FAQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
